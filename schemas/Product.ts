@@ -7,9 +7,6 @@ export default {
     title: 'Product',
     icon: MdShop,
     type: 'document',
-    initialValue: {
-        type: 'article'
-    },
     fields: [
         {
             name: 'title',
